@@ -21,22 +21,21 @@
 <h3 align="center">🛠️ Tech Stack & Tools</h3>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/python" width="45" height="45" alt="Python" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/r" width="45" height="45" alt="R" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver" width="45" height="45" alt="SQL Server" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql" width="45" height="45" alt="PostgreSQL" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mysql" width="45" height="45" alt="MySQL" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/powerbi" width="45" height="45" alt="Power BI" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tableau" width="45" height="45" alt="Tableau" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/hubspot" width="45" height="45" alt="HubSpot" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/jupyter" width="45" height="45" alt="Jupyter" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/scikitlearn" width="45" height="45" alt="Scikit-Learn" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/apachespark" width="45" height="45" alt="Apache Spark" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/apacheairflow" width="45" height="45" alt="Apache Airflow" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker" width="45" height="45" alt="Docker" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlecloud" width="45" height="45" alt="GCP" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git" width="45" height="45" alt="Git" />
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=python&logoColor=white&color=3776AB" alt="Python" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=r&logoColor=white&color=276DC3" alt="R" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&color=CC292B" alt="SQL Server" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=html5&logoColor=white&color=E34F26" alt="HTML5" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=css3&logoColor=white&color=1572B6" alt="CSS3" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=power-bi&logoColor=black&color=F2C811" alt="Power BI" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=tableau&logoColor=white&color=E97627" alt="Tableau" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=google-cloud&logoColor=white&color=4285F4" alt="GCP" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=selenium&logoColor=white&color=43B02A" alt="Selenium" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=wordpress&logoColor=white&color=21759B" alt="WordPress" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=git&logoColor=white&color=F05032" alt="Git" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=google&logoColor=white&color=4285F4" alt="GDG" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=probot&logoColor=white&color=412991" alt="Antigravity" />
 </p>
+
 
 
 ---
@@ -64,10 +63,10 @@ Giá trị cốt lõi tôi mang lại là **giải pháp dựa trên dữ liệu
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>📈 Analytics & ML</h4>
+      <h4>📈 Analytics & Automation</h4>
       <ul>
         <li><b>Data Processing</b> (Python, R)</li>
-        <li><b>Predictive Modeling</b> (Scikit-learn)</li>
+        <li><b>Web Automation & Scraping</b> (Selenium)</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -80,10 +79,11 @@ Giá trị cốt lõi tôi mang lại là **giải pháp dựa trên dữ liệu
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h4>🏗️ Data Engineering & AI</h4>
+      <h4>🏗️ Data Engineering & Web Development</h4>
       <ul>
-        <li><b>DB Management</b> (CSDL > 1M records)</li>
-        <li><b>ETL/ELT Pipelines</b> (Docker, Spark, Airflow) | <b>AI Agentic Workflows</b></li>
+        <li><b>DB Management:</b> Thiết kế & tối ưu CSDL (MSSQL | CSDL > 1M dòng).</li>
+        <li><b>Cloud & CMS:</b> Vận hành đám mây (GCP) & Quản trị CMS (WordPress).</li>
+        <li><b>Web Standards:</b> Phát triển giao diện web (HTML5, CSS3).</li>
       </ul>
     </td>
   </tr>
