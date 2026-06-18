@@ -21,20 +21,21 @@
 <h3 align="center">🛠️ Tech Stack & Tools</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=python&logoColor=white&color=3776AB" alt="Python" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=r&logoColor=white&color=276DC3" alt="R" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&color=CC292B" alt="SQL Server" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=html5&logoColor=white&color=E34F26" alt="HTML5" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=css3&logoColor=white&color=1572B6" alt="CSS3" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=power-bi&logoColor=black&color=F2C811" alt="Power BI" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=tableau&logoColor=white&color=E97627" alt="Tableau" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=google-cloud&logoColor=white&color=4285F4" alt="GCP" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=selenium&logoColor=white&color=43B02A" alt="Selenium" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=wordpress&logoColor=white&color=21759B" alt="WordPress" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=git&logoColor=white&color=F05032" alt="Git" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=google&logoColor=white&color=4285F4" alt="GDG" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=probot&logoColor=white&color=412991" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GDG" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-412991?style=for-the-badge&logo=probot&logoColor=white" alt="Antigravity" />
 </p>
+
 
 
 
