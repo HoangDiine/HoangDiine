@@ -22,8 +22,14 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,mssql,html,css,powerbi,tableau,gcp,selenium,wordpress,git,google,openai" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,r,html,css,gcp,selenium,wordpress,git" alt="My Tech Stack" />
   </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GDG" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-412991?style=for-the-badge&logo=probot&logoColor=white" alt="Antigravity" />
 </p>
 
 
