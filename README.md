@@ -72,32 +72,42 @@ Giá trị cốt lõi tôi mang lại là **giải pháp dựa trên dữ liệu
   <tr>
     <td width="50%" valign="top">
       <h4>🧠 Business Logic</h4>
-      • <b>Root Cause Analysis</b> | <b>Problem Structuring</b><br>
-      • <b>KPIs & Metrics Framework</b>
+      <ul>
+        <li><b>Root Cause Analysis</b> | <b>Problem Structuring</b></li>
+        <li><b>KPIs & Metrics Framework</b></li>
+      </ul>
     </td>
     <td width="50%" valign="top">
       <h4>⚙️ Business Analysis</h4>
-      • <b>BPMN 2.0</b> | <b>Requirements (BRD/SRS)</b><br>
-      • <b>Agile/Scrum</b> | <b>Multi-domain</b> (Finance, Real Estate, E-com)
+      <ul>
+        <li><b>BPMN 2.0</b> | <b>Requirements (BRD/SRS)</b></li>
+        <li><b>Agile/Scrum</b> | <b>Multi-domain</b> (Finance, Real Estate, E-com)</li>
+      </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>📈 Analytics & ML</h4>
-      • <b>Data Processing</b> (Python, R)<br>
-      • <b>Predictive Modeling</b> (Scikit-learn)
+      <ul>
+        <li><b>Data Processing</b> (Python, R)</li>
+        <li><b>Predictive Modeling</b> (Scikit-learn)</li>
+      </ul>
     </td>
     <td width="50%" valign="top">
       <h4>🎨 Visualization</h4>
-      • <b>UI/UX Dashboards</b> (Power BI, Tableau)<br>
-      • <b>Data Storytelling</b> (Actionable Insights)
+      <ul>
+        <li><b>UI/UX Dashboards</b> (Power BI, Tableau)</li>
+        <li><b>Data Storytelling</b> (Actionable Insights)</li>
+      </ul>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
       <h4>🏗️ Data Engineering & AI</h4>
-      • <b>DB Management</b> (CSDL > 1M records)<br>
-      • <b>ETL/ELT Pipelines</b> (Docker, Spark, Airflow) | <b>AI Agentic Workflows</b>
+      <ul>
+        <li><b>DB Management</b> (CSDL > 1M records)</li>
+        <li><b>ETL/ELT Pipelines</b> (Docker, Spark, Airflow) | <b>AI Agentic Workflows</b></li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -111,11 +121,10 @@ Giá trị cốt lõi tôi mang lại là **giải pháp dựa trên dữ liệu
     <tr>
       <td width="50%" valign="top">
         <h4>🏫 Học vấn</h4>
-        <b>Đại học Kinh tế - Đại học Đà Nẵng (DUE)</b><br>
-        <i>Chuyên ngành: Khoa học Dữ liệu và Phân tích Kinh doanh (BA)</i>
         <ul>
-          <li>GPA: <b>3.63 / 4.00</b></li>
-          <li>Dự kiến tốt nghiệp: <b>12/2026</b></li>
+          <li><b>Đại học Kinh tế - Đại học Đà Nẵng (DUE)</b></li>
+          <li><i>Khoa học Dữ liệu & Phân tích Kinh doanh (BA)</i></li>
+          <li>GPA: <b>3.63 / 4.00</b> | Tốt nghiệp: <b>12/2026</b></li>
         </ul>
       </td>
       <td width="50%" valign="top">
