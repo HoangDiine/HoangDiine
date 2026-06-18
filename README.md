@@ -21,20 +21,11 @@
 <h3 align="center">🛠️ Tech Stack & Tools</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GDG" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-412991?style=for-the-badge&logo=probot&logoColor=white" alt="Antigravity" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,mssql,html,css,powerbi,tableau,gcp,selenium,wordpress,git,google,openai" alt="My Tech Stack" />
+  </a>
 </p>
+
 
 
 
