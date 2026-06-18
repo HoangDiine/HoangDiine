@@ -20,46 +20,23 @@
 
 <h3 align="center">🛠️ Tech Stack & Tools</h3>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="left"><b>💡 Languages & Core</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-        <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-      </td>
-    </tr>
-    <tr>
-      <td align="left"><b>🗄️ Databases</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-      </td>
-    </tr>
-    <tr>
-      <td align="left"><b>📊 BI, Analytics & CRM</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
-        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-        <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot" />
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-      </td>
-    </tr>
-    <tr>
-      <td align="left"><b>⚙️ Data Engineering & AI</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark" />
-        <img src="https://img.shields.io/badge/Apache%20Airflow-017A86?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Apache Airflow" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/python" width="45" height="45" alt="Python" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/r" width="45" height="45" alt="R" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver" width="45" height="45" alt="SQL Server" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql" width="45" height="45" alt="PostgreSQL" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql" width="45" height="45" alt="MySQL" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/powerbi" width="45" height="45" alt="Power BI" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tableau" width="45" height="45" alt="Tableau" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/hubspot" width="45" height="45" alt="HubSpot" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/jupyter" width="45" height="45" alt="Jupyter" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn" width="45" height="45" alt="Scikit-Learn" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/apachespark" width="45" height="45" alt="Apache Spark" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/apacheairflow" width="45" height="45" alt="Apache Airflow" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker" width="45" height="45" alt="Docker" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlecloud" width="45" height="45" alt="GCP" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git" width="45" height="45" alt="Git" />
+</p>
 
 
 ---
