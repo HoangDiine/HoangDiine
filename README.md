@@ -71,47 +71,33 @@ Giá trị cốt lõi tôi mang lại là **giải pháp dựa trên dữ liệu
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🧠 Business Logic & Thinking</h4>
-      <ul>
-        <li><b>Root Cause Analysis:</b> Xác định "nút thắt" vận hành từ dữ liệu.</li>
-        <li><b>Problem Structuring:</b> Chuyển bài toán mơ hồ thành chỉ số đo lường được.</li>
-        <li><b>KPIs Framework:</b> Thiết kế hệ chỉ số hỗ trợ quyết định chiến lược.</li>
-      </ul>
+      <h4>🧠 Business Logic</h4>
+      • <b>Root Cause Analysis</b> | <b>Problem Structuring</b><br>
+      • <b>KPIs & Metrics Framework</b>
     </td>
     <td width="50%" valign="top">
-      <h4>⚙️ Business Analysis & Processes</h4>
-      <ul>
-        <li><b>Process Optimization:</b> Tối ưu quy trình nghiệp vụ (BPMN 2.0).</li>
-        <li><b>Requirements:</b> Trích xuất & tài liệu hóa yêu cầu (BRD, SRS).</li>
-        <li><b>Agile/Scrum:</b> Quản trị dự án & vận hành linh hoạt.</li>
-        <li><b>Domains:</b> Tài chính, Bất động sản, E-commerce, Du lịch.</li>
-      </ul>
+      <h4>⚙️ Business Analysis</h4>
+      • <b>BPMN 2.0</b> | <b>Requirements (BRD/SRS)</b><br>
+      • <b>Agile/Scrum</b> | <b>Multi-domain</b> (Finance, Real Estate, E-com)
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>📈 Data Analytics & ML</h4>
-      <ul>
-        <li><b>Data Processing:</b> Xử lý dữ liệu quy mô lớn (Python, R).</li>
-        <li><b>Predictive Modeling:</b> Xây dựng mô hình máy học dự báo (Scikit-learn).</li>
-      </ul>
+      <h4>📈 Analytics & ML</h4>
+      • <b>Data Processing</b> (Python, R)<br>
+      • <b>Predictive Modeling</b> (Scikit-learn)
     </td>
     <td width="50%" valign="top">
-      <h4>🎨 Visualization & Storytelling</h4>
-      <ul>
-        <li><b>Dashboard Design:</b> Thiết kế báo cáo tối ưu UI/UX (Power BI, Tableau).</li>
-        <li><b>Data Storytelling:</b> Truyền tải insight thúc đẩy hành động (Actionable).</li>
-      </ul>
+      <h4>🎨 Visualization</h4>
+      • <b>UI/UX Dashboards</b> (Power BI, Tableau)<br>
+      • <b>Data Storytelling</b> (Actionable Insights)
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h4>🏗️ Data Engineering & AI Infrastructure</h4>
-      <ul>
-        <li><b>DB Management:</b> Thiết kế, tối ưu CSDL lớn (hơn 1 triệu bản ghi).</li>
-        <li><b>Data Pipelines:</b> Tự động hóa ETL/ELT (Docker, Apache Spark, Airflow).</li>
-        <li><b>AI Integration:</b> Ứng dụng Prompt Engineering & AI Agentic Workflows.</li>
-      </ul>
+      <h4>🏗️ Data Engineering & AI</h4>
+      • <b>DB Management</b> (CSDL > 1M records)<br>
+      • <b>ETL/ELT Pipelines</b> (Docker, Spark, Airflow) | <b>AI Agentic Workflows</b>
     </td>
   </tr>
 </table>
