@@ -73,18 +73,18 @@ Giá trị cốt lõi tôi mang lại là **giải pháp dựa trên dữ liệu
     <td width="50%" valign="top">
       <h4>🧠 Business Logic & Thinking</h4>
       <ul>
-        <li><b>Root Cause Analysis:</b> Tìm ra "nút thắt" vận hành ẩn sau dữ liệu bề mặt.</li>
-        <li><b>Problem Structuring:</b> Biến bài toán mơ hồ thành <i>Business & Data Questions</i> đo lường được.</li>
-        <li><b>KPIs Framework:</b> Xây dựng hệ thống chỉ số, đặt <i>Decision Questions</i> hỗ trợ chiến lược.</li>
+        <li><b>Root Cause Analysis:</b> Xác định "nút thắt" vận hành từ dữ liệu.</li>
+        <li><b>Problem Structuring:</b> Chuyển bài toán mơ hồ thành chỉ số đo lường được.</li>
+        <li><b>KPIs Framework:</b> Thiết kế hệ chỉ số hỗ trợ quyết định chiến lược.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>⚙️ Business Analysis & Processes</h4>
       <ul>
-        <li><b>Process Optimization:</b> Tối ưu hóa quy trình nghiệp vụ với <b>BPMN 2.0</b>.</li>
-        <li><b>Requirements Engineering:</b> Trích xuất và tài liệu hóa yêu cầu (<b>BRD, SRS</b>).</li>
-        <li><b>Agile/Scrum:</b> Quản lý vòng đời dự án hiệu quả.</li>
-        <li><b>Domain Expertise:</b> Tài chính, Bất động sản, E-commerce & Du lịch.</li>
+        <li><b>Process Optimization:</b> Tối ưu quy trình nghiệp vụ (BPMN 2.0).</li>
+        <li><b>Requirements:</b> Trích xuất & tài liệu hóa yêu cầu (BRD, SRS).</li>
+        <li><b>Agile/Scrum:</b> Quản trị dự án & vận hành linh hoạt.</li>
+        <li><b>Domains:</b> Tài chính, Bất động sản, E-commerce, Du lịch.</li>
       </ul>
     </td>
   </tr>
@@ -92,15 +92,15 @@ Giá trị cốt lõi tôi mang lại là **giải pháp dựa trên dữ liệu
     <td width="50%" valign="top">
       <h4>📈 Data Analytics & ML</h4>
       <ul>
-        <li><b>Data Processing:</b> Xử lý dữ liệu quy mô lớn với <b>Python</b> (Pandas, NumPy) & <b>R</b>.</li>
-        <li><b>Predictive Modeling:</b> Xây dựng mô hình học máy dự báo với <b>Scikit-learn</b>.</li>
+        <li><b>Data Processing:</b> Xử lý dữ liệu quy mô lớn (Python, R).</li>
+        <li><b>Predictive Modeling:</b> Xây dựng mô hình máy học dự báo (Scikit-learn).</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>🎨 Visualization & Storytelling</h4>
       <ul>
-        <li><b>User-Centric Dashboards:</b> Thiết kế UI/UX tối ưu cho C-level trên <b>Power BI, Tableau</b>.</li>
-        <li><b>Data Storytelling:</b> Kể chuyện bằng dữ liệu, thúc đẩy <b>Actionable Insights</b>.</li>
+        <li><b>Dashboard Design:</b> Thiết kế báo cáo tối ưu UI/UX (Power BI, Tableau).</li>
+        <li><b>Data Storytelling:</b> Truyền tải insight thúc đẩy hành động (Actionable).</li>
       </ul>
     </td>
   </tr>
@@ -108,9 +108,9 @@ Giá trị cốt lõi tôi mang lại là **giải pháp dựa trên dữ liệu
     <td colspan="2" valign="top">
       <h4>🏗️ Data Engineering & AI Infrastructure</h4>
       <ul>
-        <li><b>DB Management:</b> Thiết kế (ERD, 3NF), tối ưu hóa và quản trị hệ thống <b>hơn 1 triệu bản ghi</b>.</li>
-        <li><b>Data Pipelines (ETL/ELT):</b> Tự động hóa luồng dữ liệu với <b>Docker, Apache Spark, Airflow</b>.</li>
-        <li><b>AI Integration:</b> Ứng dụng <b>Prompt Engineering</b> & <b>AI Agentic Workflows</b> vào tự động hóa.</li>
+        <li><b>DB Management:</b> Thiết kế, tối ưu CSDL lớn (hơn 1 triệu bản ghi).</li>
+        <li><b>Data Pipelines:</b> Tự động hóa ETL/ELT (Docker, Apache Spark, Airflow).</li>
+        <li><b>AI Integration:</b> Ứng dụng Prompt Engineering & AI Agentic Workflows.</li>
       </ul>
     </td>
   </tr>
