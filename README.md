@@ -18,31 +18,20 @@
 
 ---
 
-<div align="center">
-  <h2>🚀 Tech Stack & Tools</h2>
-  <br>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-    <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio" />
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-    <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" />
-    <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </p>
-</div>
+<h3 align="center">🛠️ Tech Stack & Tools</h3>
+
+<p align="center">
+  <!-- Hàng 1: Ngôn ngữ & Cơ sở dữ liệu -->
+  <img src="https://skillicons.dev/icons?i=python,r,sqlserver,postgres,mysql" alt="Languages & DBs" />
+</p>
+<p align="center">
+  <!-- Hàng 2: BI, Phân tích & CRM -->
+  <img src="https://skillicons.dev/icons?i=powerbi,tableau,hubspot,jupyter,sklearn" alt="BI & Analytics" />
+</p>
+<p align="center">
+  <!-- Hàng 3: Data Engineering & AI Infrastructure -->
+  <img src="https://skillicons.dev/icons?i=spark,docker,gcp,git" alt="Data Engineering" />
+</p>
 
 ---
 
