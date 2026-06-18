@@ -25,11 +25,11 @@
     <img src="https://skillicons.dev/icons?i=py,r,html,css,gcp,selenium,wordpress,git" alt="My Tech Stack" />
   </a>
   <br><br>
-  <img src="https://img.shields.io/badge/-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GDG" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-412991?style=for-the-badge&logo=probot&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GDG-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GDG" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Antigravity-412991?style=for-the-badge&logo=probot&logoColor=white" alt="Antigravity" />
 </p>
 
 
