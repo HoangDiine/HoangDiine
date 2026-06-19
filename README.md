@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://nguyen-hoang-duy-2k5.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 
   <a href="https://linkedin.com/in/duy-nguyen24122005">
