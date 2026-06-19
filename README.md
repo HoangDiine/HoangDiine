@@ -21,12 +21,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,html,css,gcp,selenium,wordpress,git" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,r,html,css,gcp,docker,selenium,wordpress,git" alt="My Tech Stack" />
   </a>
   <br><br>
   <img src="https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GDG-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GDG" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Antigravity-412991?style=for-the-badge&logo=probot&logoColor=white" alt="Antigravity" />
 </p>
@@ -79,8 +80,8 @@ Giá trị cốt lõi tôi mang lại là **giải pháp dựa trên dữ liệu
       <h4>🏗️ Data Engineering & Web Development</h4>
       <ul>
         <li><b>DB Management:</b> Thiết kế & tối ưu CSDL (MSSQL | CSDL > 1M dòng).</li>
-        <li><b>Cloud & CMS:</b> Vận hành đám mây (GCP) & Quản trị CMS (WordPress).</li>
-        <li><b>Web Standards:</b> Phát triển giao diện web (HTML5, CSS3).</li>
+        <li><b>Cloud & Container:</b> Vận hành đám mây (GCP) & Đóng gói ứng dụng (Docker).</li>
+        <li><b>Web Standards:</b> Phát triển giao diện web (HTML5, CSS3) & CMS (WordPress).</li>
       </ul>
     </td>
   </tr>
